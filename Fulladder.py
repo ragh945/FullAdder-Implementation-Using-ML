@@ -7,14 +7,14 @@ from io import BytesIO
 from PIL import Image
 # Streamlit app
 st.title("Full Adder Implementation with Machine Learning ")
-inno=Image.open(r"C:\Users\RAGHAVENDRA KUMAR\OneDrive\Pictures\Screenshots\Inno.png")
+inno=Image.open("Inno.png")
 st.image(inno, use_column_width=False)
-b=Image.open(r"C:\Users\RAGHAVENDRA KUMAR\Downloads\Fulladder.png")
+b=Image.open("Fulladder.png")
 st.image(b)
 
 # Load the trained models
-model_sum_path = r"C:\Users\RAGHAVENDRA KUMAR\ML\Untitled Folder\sum.pkl"
-model_cout_path = r"C:\Users\RAGHAVENDRA KUMAR\ML\Untitled Folder\Cout.pkl"
+model_sum_path = "sum.pkl"
+model_cout_path = "Cout.pkl"
 
 with open(model_sum_path, 'rb') as model_file:
     model_sum = pickle.load(model_file)
