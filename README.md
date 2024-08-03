@@ -19,10 +19,10 @@
 - Submit Button: Click to get predictions for Sum and Carry-out.
 - Visualization: View the dynamically updated logic circuit and truth table based on the input values.
 
-  ![image](https://github.com/user-attachments/assets/55e48581-1e18-4207-b51b-72637f0b9168)
+![image](https://github.com/user-attachments/assets/55e48581-1e18-4207-b51b-72637f0b9168)
 
 
-  ![image](https://github.com/user-attachments/assets/559aed89-d867-46cf-abb1-96e0ceae97de)
+![image](https://github.com/user-attachments/assets/559aed89-d867-46cf-abb1-96e0ceae97de)
 
 
 ## Conclusion
